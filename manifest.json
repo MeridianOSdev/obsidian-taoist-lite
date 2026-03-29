@@ -1,0 +1,12 @@
+{
+  "name": "TaoistLite",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "author": "MeridianOSdev",
+  "authorUrl": "https://MeridianOS.dev",
+  "theme": true,
+  "description": "A solemn Daoist-inspired Obsidian theme featuring ancient manuscript aesthetics, dark scholarly UI, gold and jade accents, scripture callouts, and a serious metaphysical library atmosphere.",
+  "modes": [
+    "dark"
+  ]
+}
